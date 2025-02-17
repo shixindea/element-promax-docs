@@ -1,5 +1,3 @@
-# pnpm docs:build
-
 git add .
 
 git commit -m "update:$(date +%F%n%T)更新文档"
